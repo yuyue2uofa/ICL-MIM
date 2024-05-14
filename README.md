@@ -17,6 +17,3 @@ The experiment results demonstrated that: with concatenated support examples and
 
 Please prepare concatenated images/ground truth before running training/inference code.
 
-## Results
-
-Please find the trained weights [here](https://drive.google.com/file/d/1CJJiyNcC53chDeWVoqRgU493RyL3fWnX/view?usp=sharing). (The model with the best performance on wrist ultrasound dataset)
